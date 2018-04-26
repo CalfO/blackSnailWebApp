@@ -1,0 +1,25 @@
+{
+  "generator-ngx-rocket": {
+    "version": "4.2.0",
+    "props": {
+      "location": "path",
+      "appName": "BlackSnailWebApp",
+      "target": [
+        "web",
+        "cordova"
+      ],
+      "pwa": true,
+      "mobile": [
+        "ios",
+        "android"
+      ],
+      "ui": "material",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "projectName": "black-snail-web-app",
+      "packageManager": "npm"
+    }
+  }
+}
